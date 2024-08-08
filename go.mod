@@ -1,3 +1,3 @@
-module github.com/miilka/racs-go-lib
+module github.com/miilkaa/racs-go-lib
 
 go 1.22.5
